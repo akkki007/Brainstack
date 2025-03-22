@@ -20,7 +20,11 @@ langchain_text_splitters
 faiss-cpu
 beautifulsoup4
 html2text
+yt_dlp
 numpy
 fitz
 pymupdf
 google-generativeai
+sqlalchemy
+pgvector
+psycopg[binary]
